@@ -1,0 +1,5 @@
+Cielo: Azul
+Edad: 27 años
+git add prueba.txt
+q
+q
